@@ -3,9 +3,13 @@
 This Flutter project adheres to the principles of Clean Architecture with a focus on Domain-Driven Design (DDD). Here's a comprehensive breakdown of the directory structure:
 
 
-| Video 1                                     | Video 2                                     |
+| Video 1 (1213)                              | Video 2(1212)                               |
 | ------------------------------------------- | ------------------------------------------- |
-| [![Video 1](https://github.com/Just-Slava/weather_app/assets/48661876/31c50aa9-10a9-4604-bb0e-7c900e8f556f)](https://github.com/Just-Slava/weather_app/assets/48661876/31c50aa9-10a9-4604-bb0e-7c900e8f556f) | [![Video 2](https://github.com/Just-Slava/weather_app/assets/48661876/d2dfc435-af1d-456b-bdbe-6f81d6d0b01b)](https://github.com/Just-Slava/weather_app/assets/48661876/d2dfc435-af1d-456b-bdbe-6f81d6d0b01b) |
+  
+
+https://github.com/Just-Slava/weather_app/assets/48661876/743794d6-485e-4af8-9157-64365cce59c7
+
+https://github.com/Just-Slava/weather_app/assets/48661876/00623845-770d-4a54-b451-e35b05605f41
 
 
 
