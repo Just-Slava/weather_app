@@ -22,6 +22,16 @@ The `core` directory includes essential components following Clean Architecture 
 
 - **themes/color_schemes.dart:** Definitions for color schemes used across the app.
 
+### `hydrated_bloc` Integration
+
+The project also integrates `hydrated_bloc` for persistent data:
+
+- **`hydrated_bloc` Configuration:**
+
+  - The `hydrated_bloc` package is added to the dependencies in the `pubspec.yaml` file.
+
+  - Configuration for `hydrated_bloc` is set up in the `main.dart` file, ensuring persistent data storage.
+
 ## Features
 
 The `features` directory organizes the application into features, aligning with the principles of Clean Architecture and DDD:
